@@ -3,6 +3,8 @@ Tips and tricks for grad students who want to engage with the public.
 
 Created as a Graduate Assistant at [LEADR](https://leadr.msu.edu) Summer 2020
 
+[https://dmwillcutt.github.io/publicscholarship/](https://dmwillcutt.github.io/publicscholarship/)
+
 There are two main ways that academics engage with the public via digital humanities. The first way is by building a personal digital presence. This includes creating a CV website, blogging, social media, and any other activity that places you in the public eye. The second way is by designing, building, and maintaining public educational products.
 
 ## The Benefits of Having a Digital Presence
